@@ -408,6 +408,20 @@ An open-source uptime and infrastructure monitoring application that tracks the 
 
 ---
 
+### [SolidPing](https://github.com/fclairamb/solidping)
+
+<img src="https://raw.githubusercontent.com/fclairamb/solidping/main/res/logo_256.png" width="40" height="40" alt="SolidPing logo">
+
+[![Stars](https://img.shields.io/github/stars/fclairamb/solidping?style=flat-square&label=stars)](https://github.com/fclairamb/solidping/stargazers) [![License](https://img.shields.io/github/license/fclairamb/solidping?style=flat-square)](https://github.com/fclairamb/solidping) [![Last Commit](https://img.shields.io/github/last-commit/fclairamb/solidping?style=flat-square)](https://github.com/fclairamb/solidping/commits)
+
+An uptime monitor with 43 check types (HTTP, DNS, TLS, databases, queues, browser, custom JavaScript), multi-region workers, private agents, status pages and on-call escalation. Runs as a single Go binary or Docker image.
+
+**Highlights:** 43 Check Types · Status Pages · On-Call Escalation
+
+**💡 Open-source alternative to:** UptimeRobot, Better Uptime, Pingdom
+
+---
+
 ## Team Communication & Collaboration Tools
 
 ### [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)

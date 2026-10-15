@@ -1440,6 +1440,20 @@ ERPNext is an open-source enterprise resource planning suite, and a self-hosted 
 
 ---
 
+### [OpenBooks](https://github.com/braedonsaunders/openbooks)
+
+<img src="https://raw.githubusercontent.com/braedonsaunders/openbooks/main/.github/assets/openbooks-logo.svg" width="40" height="40" alt="OpenBooks logo">
+
+[![Stars](https://img.shields.io/github/stars/braedonsaunders/openbooks?style=flat-square&label=stars)](https://github.com/braedonsaunders/openbooks/stargazers) [![License](https://img.shields.io/github/license/braedonsaunders/openbooks?style=flat-square)](https://github.com/braedonsaunders/openbooks) [![Last Commit](https://img.shields.io/github/last-commit/braedonsaunders/openbooks?style=flat-square)](https://github.com/braedonsaunders/openbooks/commits)
+
+OpenBooks is an open-source mid-market accounting and ERP suite (AGPL), covering multi-entity books, job costing, approvals, and an audit trail. Self-host with Docker; alpha software.
+
+**Highlights:** Multi-entity accounting · Job costing · Approvals & audit trail
+
+**💡 Open-source alternative to:** NetSuite, QuickBooks Enterprise, SAP Business One
+
+---
+
 ## Feature Flag & Toggle Management Tools
 
 ### [Unleash](https://github.com/Unleash/unleash)

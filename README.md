@@ -6,15 +6,6 @@ Find open-source SaaS alternatives, self-hosted applications, and developer tool
 
 This list is a snapshot of [Open SaaS Directory](https://opensaas.directory). Project names link to their GitHub repositories; the directory provides project profiles and discovery tools. The collection also includes desktop apps, developer libraries, and source-available projects. Check each project's current license, hosting requirements, and feature limits before choosing it. Listed alternatives are starting points for comparison, not promises of feature parity.
 
-## At a Glance
-
-| | |
-|---|---|
-| **Projects** | 100 |
-| **Categories** | 50 in 8 groups |
-| **Project data** | [Open SaaS Directory](https://opensaas.directory) database |
-| **GitHub stars** | Live badges; project details update when the list is synced |
-
 ## Browse by Category
 
 **AI & Automation**

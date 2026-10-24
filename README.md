@@ -48,7 +48,7 @@ This list is a snapshot of [Open SaaS Directory](https://opensaas.directory). Pr
 - [Team Chat & Video Conferencing](#team-chat-video-conferencing) (4)
 - [Project Management](#project-management) (3)
 - [Knowledge Bases & Documentation](#knowledge-bases-documentation) (3)
-- [Notes & Personal Productivity](#notes-personal-productivity) (2)
+- [Notes & Personal Productivity](#notes-personal-productivity) (3)
 - [Time Tracking](#time-tracking) (2)
 - [Appointment Scheduling](#appointment-scheduling) (1)
 - [Design & Whiteboards](#design-whiteboards) (2)
@@ -1024,6 +1024,15 @@ Write and organize notes or streamline everyday desktop tasks.
 <strong><a href="https://github.com/p0deje/Maccy">Maccy</a></strong><br>
 <sub>Maccy is a lightweight clipboard manager for macOS.<br>
 💡 <b>Open-source alternative to Paste</b></sub>
+</td>
+</tr>
+<tr>
+<td width="64" align="center"><img src="https://www.koru.do/icon.png" width="48" height="48" alt="Koru logo"><br>
+<img src="https://img.shields.io/github/stars/koruworks/mono?style=flat-square&label=%E2%AD%90" alt="stars"></td>
+<td>
+<strong><a href="https://github.com/koruworks/mono">Koru</a></strong><br>
+<sub>Koru is a local-first desktop workspace for notes, documents, and files, written in Rust for Windows and macOS, with free device-to-device sync.<br>
+💡 <b>Open-source alternative to Evernote, Notion & OneNote</b></sub>
 </td>
 </tr>
 </table>

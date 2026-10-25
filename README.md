@@ -2,9 +2,9 @@
 
 # Awesome Open Source SaaS Alternatives
 
-Find open-source SaaS alternatives, self-hosted applications, and developer tools for analytics, collaboration, marketing, security, and more. Browse 103 projects by what you want to do.
+103 open-source alternatives to popular SaaS tools, organized by category: analytics, collaboration, marketing, security, and more. Self-hosted apps, desktop apps, and developer libraries — project names link straight to GitHub.
 
-This list is a snapshot of [Open SaaS Directory](https://opensaas.directory). Project names link to their GitHub repositories; the directory provides project profiles and discovery tools. The collection also includes desktop apps, developer libraries, and source-available projects. Check each project's current license, hosting requirements, and feature limits before choosing it. Listed alternatives are starting points for comparison, not promises of feature parity.
+This is a snapshot of [Open SaaS Directory](https://opensaas.directory), which has full project profiles and discovery tools. Always check a project's license, hosting requirements, and feature set before switching — these are starting points, not guaranteed drop-in replacements.
 
 <table>
 <tr>

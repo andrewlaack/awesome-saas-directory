@@ -6,6 +6,73 @@ Find open-source SaaS alternatives, self-hosted applications, and developer tool
 
 This list is a snapshot of [Open SaaS Directory](https://opensaas.directory). Project names link to their GitHub repositories; the directory provides project profiles and discovery tools. The collection also includes desktop apps, developer libraries, and source-available projects. Check each project's current license, hosting requirements, and feature limits before choosing it. Listed alternatives are starting points for comparison, not promises of feature parity.
 
+<!-- ============================================================ -->
+<!-- Option 1: Badge button row -->
+<!-- ============================================================ -->
+
+<p align="center">
+  <a href="https://opensaas.directory/projects/new"><img src="https://img.shields.io/badge/%E2%9E%95%20Submit%20Your%20Project-1f6feb?style=for-the-badge" alt="Submit Your Project"></a>
+  &nbsp;
+  <a href="https://opensaas.directory/newsletter"><img src="https://img.shields.io/badge/%F0%9F%93%AC%20Join%20the%20Newsletter-f59e0b?style=for-the-badge" alt="Join the Newsletter"></a>
+  &nbsp;
+  <a href="#browse-by-category"><img src="https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Browse%20All%20Categories-10b981?style=for-the-badge" alt="Browse All Categories"></a>
+</p>
+
+<!-- ============================================================ -->
+<!-- Option 2: 3-card grid -->
+<!-- ============================================================ -->
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### ➕
+
+**Submit Your Project**<br>
+<sub>Get your open-source SaaS alternative listed in the directory.</sub>
+
+<a href="https://opensaas.directory/projects/new"><img src="https://img.shields.io/badge/Submit-1f6feb?style=flat-square" alt="Submit"></a>
+
+</td>
+<td align="center" width="33%">
+
+### 📬
+
+**Join the Newsletter**<br>
+<sub>New open-source alternatives, once a month.</sub>
+
+<a href="https://opensaas.directory/newsletter"><img src="https://img.shields.io/badge/Subscribe-f59e0b?style=flat-square" alt="Subscribe"></a>
+
+</td>
+<td align="center" width="33%">
+
+### 🗂️
+
+**Browse by Category**<br>
+<sub>103 projects, organized into 8 groups.</sub>
+
+<a href="#browse-by-category"><img src="https://img.shields.io/badge/Browse-10b981?style=flat-square" alt="Browse"></a>
+
+</td>
+</tr>
+</table>
+
+<!-- ============================================================ -->
+<!-- Option 3: Hero banner strip -->
+<!-- ============================================================ -->
+
+<table>
+<tr>
+<td>
+
+🚀&nbsp;&nbsp;**Missing a tool?**&nbsp;&nbsp;→&nbsp;&nbsp;[Submit your project](https://opensaas.directory/projects/new)<br>
+📬&nbsp;&nbsp;**Want monthly picks?**&nbsp;&nbsp;→&nbsp;&nbsp;[Join the newsletter](https://opensaas.directory/newsletter)<br>
+🗂️&nbsp;&nbsp;**103 projects, 8 categories**&nbsp;&nbsp;→&nbsp;&nbsp;[Browse all categories](#browse-by-category)
+
+</td>
+</tr>
+</table>
+
 ## Browse by Category
 
 **🤖 AI & Automation**

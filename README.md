@@ -1,10 +1,46 @@
-![Awesome Open Source SaaS Alternatives](assets/banner.png)
-
 # Awesome Open Source SaaS Alternatives
 
-Find open-source SaaS alternatives, self-hosted applications, and developer tools for analytics, collaboration, marketing, security, and more. Browse 103 projects by what you want to do.
+Open-source alternatives to popular SaaS tools, organized by category: analytics, collaboration, marketing, security, and more. Self-hosted apps, desktop apps, and developer libraries — project names link straight to GitHub.
 
-This list is a snapshot of [Open SaaS Directory](https://opensaas.directory). Project names link to their GitHub repositories; the directory provides project profiles and discovery tools. The collection also includes desktop apps, developer libraries, and source-available projects. Check each project's current license, hosting requirements, and feature limits before choosing it. Listed alternatives are starting points for comparison, not promises of feature parity.
+This is a snapshot of [Open SaaS Directory](https://opensaas.directory), which has full project profiles and discovery tools. Always check a project's license, hosting requirements, and feature set before switching — these are starting points, not guaranteed drop-in replacements.
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### ➕
+
+**Submit Your Project**
+
+Get your open-source SaaS alternative listed in the directory.
+
+<a href="https://opensaas.directory/projects/new"><img src="assets/buttons/submit.svg" alt="Submit a project"></a>
+
+</td>
+<td align="center" width="33%">
+
+### 📬
+
+**Join the Newsletter**
+
+New open-source alternatives, once a month.
+
+<a href="https://opensaas.directory/newsletter"><img src="assets/buttons/subscribe.svg" alt="Subscribe"></a>
+
+</td>
+<td align="center" width="33%">
+
+### 🗂️
+
+**Browse by Category**
+
+Projects organized by category.
+
+<a href="#browse-by-category"><img src="assets/buttons/browse.svg" alt="Browse categories"></a>
+
+</td>
+</tr>
+</table>
 
 ## Browse by Category
 

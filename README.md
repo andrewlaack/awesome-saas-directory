@@ -16,7 +16,7 @@ This list is a snapshot of [Open SaaS Directory](https://opensaas.directory). Pr
 
 Get your open-source SaaS alternative listed in the directory.
 
-<a href="https://opensaas.directory/projects/new"><img src="https://img.shields.io/badge/Submit-4f46e5?style=flat" alt="Submit a project"></a>
+<a href="https://opensaas.directory/projects/new"><img src="assets/buttons/submit.svg" alt="Submit a project"></a>
 
 </td>
 <td align="center" width="33%">
@@ -27,7 +27,7 @@ Get your open-source SaaS alternative listed in the directory.
 
 New open-source alternatives, once a month.
 
-<a href="https://opensaas.directory/newsletter"><img src="https://img.shields.io/badge/Subscribe-ea580c?style=flat" alt="Subscribe"></a>
+<a href="https://opensaas.directory/newsletter"><img src="assets/buttons/subscribe.svg" alt="Subscribe"></a>
 
 </td>
 <td align="center" width="33%">
@@ -38,7 +38,7 @@ New open-source alternatives, once a month.
 
 103 projects, organized into 8 groups.
 
-<a href="#browse-by-category"><img src="https://img.shields.io/badge/Browse-059669?style=flat" alt="Browse categories"></a>
+<a href="#browse-by-category"><img src="assets/buttons/browse.svg" alt="Browse categories"></a>
 
 </td>
 </tr>

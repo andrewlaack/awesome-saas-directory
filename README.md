@@ -1,5 +1,3 @@
-![Awesome Open Source SaaS Alternatives](assets/banner.png)
-
 # Awesome Open Source SaaS Alternatives
 
 Open-source alternatives to popular SaaS tools, organized by category: analytics, collaboration, marketing, security, and more. Self-hosted apps, desktop apps, and developer libraries — project names link straight to GitHub.

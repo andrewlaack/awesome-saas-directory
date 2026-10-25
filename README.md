@@ -36,7 +36,7 @@ New open-source alternatives, once a month.
 
 **Browse by Category**
 
-103 projects, organized into 8 groups.
+Projects organized by category.
 
 <a href="#browse-by-category"><img src="assets/buttons/browse.svg" alt="Browse categories"></a>
 
